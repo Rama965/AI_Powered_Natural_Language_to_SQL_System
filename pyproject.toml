@@ -1,0 +1,9 @@
+[project]
+name = "ai-powered-natural-language-to-sql-system"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "faker>=40.12.0",
+]
